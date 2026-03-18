@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Desiree Soronio
 
-<!--
-**mibiji224/mibiji224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate from the University of Mindanao. Currently, I work as a Personal Assistant to the Chief Technical Officer at Inventiv, a marketing solutions software company. I bring a unique blend of technical knowledge, administrative coordination, and cross-team collaboration. My background includes extensive experience in data tracking, process monitoring, and leading student organizations.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
+* **Development:** HTML, CSS, JavaScript, Python, React, Git, and GitHub.
+* **Design:** Figma, Adobe Photoshop, Canva, and Blender.
+* **Operations & Data:** Google Sheets, Google Workspace, and CRM-style data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Leadership & Certifications
+* President, Computing College Department Student Government (2024).
+* Training & Development Director, Davao Young Executives (2025).
+* Certified in Programming Using Python (Intermediate Level) and Basic Statistics with Python.
+
+### Let's Connect
+* **Portfolio:** [desireesoronio.vercel.app](https://desireesoronio.vercel.app)
+* **LinkedIn:** [linkedin.com/in/desireesoronio](https://www.linkedin.com/in/desireesoronio)
+* **Email:** desireesoronio@gmail.com
