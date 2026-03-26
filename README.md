@@ -3,7 +3,7 @@
 > **Developer | Designer | Operational Leader**
 > Blending technical precision with creative vision and administrative excellence.
 
-Welcome to my GitHub! I am a Computer Science graduate from the University of Mindanao. I specialize in bridging the gap between clean code, beautiful design, and flawless execution. 
+Welcome to my GitHub! I am a Computer Science student from the University of Mindanao. I specialize in bridging the gap between clean code, beautiful design, and flawless execution. 
 
 ### About Me
 
