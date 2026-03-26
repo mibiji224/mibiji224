@@ -7,9 +7,9 @@ Welcome to my GitHub! I am a Computer Science student from the University of Min
 
 ### About Me
 
-* **What I do:** I currently navigate the fast-paced tech world as the Personal Assistant to the Chief Technical Officer at Inventiv, a marketing solutions software company. I handle everything from operational workflows to task tracking and cross-team coordination.
+* **What I do:** I currently navigate the fast-paced tech world as the Executive Assistant to the Chief Technical Officer and Operations Manager at Inventiv. I handle everything from operational workflows to task tracking and cross-team coordination.
 * **My background:** I have a strong foundation in data tracking, process monitoring, and administrative coordination. Whether I am logging CRM data or ensuring technical projects stay on track, I thrive in high-pressure environments.
-* **Leadership:** I am passionate about guiding teams and driving initiatives forward, having proudly served as the President of the Computing College Department Student Government in 2024 and the Training & Development Director for Davao Young Executives in 2025.
+* **Leadership:** I am passionate about guiding teams and driving initiatives forward, having proudly served as the President of the Computing College Department Student Government in 2024-2025.
 
 ---
 
