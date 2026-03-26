@@ -1,5 +1,5 @@
 # Hi there, I'm Desiree Soronio! 
-> **Developer | Designer | Operational Leader**
+> **Developer | Designer | Operational Leader** — 
 > Blending technical precision with creative vision and administrative excellence.
 
 Welcome to my GitHub! I am a Computer Science student from the University of Mindanao. I specialize in bridging the gap between clean code, beautiful design, and flawless execution. 
@@ -12,13 +12,12 @@ Welcome to my GitHub! I am a Computer Science student from the University of Min
 * **Leadership:** I am passionate about guiding teams and driving initiatives forward, having proudly served as the President of the Computing College Department Student Government in 2024-2025.
 
 ---
-
-### MY TECHNICAL ARSENAL
+### My Technical Arsenal
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Development** | `HTML`, `CSS`, `JavaScript`, `Python`, `React`, `Git`, `GitHub` |
-| **Design** | `Figma`, `Adobe Photoshop`, `Canva`, `Blender` |
-| **Data & Operations** | `Google Sheets`, `Google Workspace`, `CRM Management` |
+| **Development** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) |
+| **Data & Operations** | ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white) ![CRM](https://img.shields.io/badge/CRM_Management-FF6B6B?style=flat&logoColor=white) |
 
 ---
 
