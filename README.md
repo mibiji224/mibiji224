@@ -6,14 +6,14 @@ Welcome to my GitHub! I am a Computer Science student from the University of Min
 
 ---
 
-### About Me
+### ABOUT ME
 * **What I do:** I currently navigate the fast-paced tech world as the Executive Assistant to the Chief Technical Officer and Operations Manager at Inventiv. I handle everything from operational workflows to task tracking and cross-team coordination.
 * **My background:** I have a strong foundation in data tracking, process monitoring, and administrative coordination. Whether I am logging CRM data or ensuring technical projects stay on track, I thrive in high-pressure environments.
 * **Leadership:** I am passionate about guiding teams and driving initiatives forward, having proudly served as the President of the Computing College Department Student Government in 2024-2025.
 
 ---
 
-### My Technical Arsenal
+### MY TECHNICAL ARSENAL
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Development** | `HTML`, `CSS`, `JavaScript`, `Python`, `React`, `Git`, `GitHub` |
@@ -22,14 +22,7 @@ Welcome to my GitHub! I am a Computer Science student from the University of Min
 
 ---
 
-### Professional & Academic Highlights
-* **Certified Skills:** Earned certifications in Programming Using Python (Intermediate Level) and Basic Statistics with Python.
-* **Academic Excellence:** Graduated from the STEM strand at Davao City National High School with Academic High Honors.
-* **Recognition:** Awarded the Leadership Award by PSITS Region XI in 2024.
-
----
-
-## 🛠️ Tech Stack
+### TECH STACK
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -42,16 +35,20 @@ Welcome to my GitHub! I am a Computer Science student from the University of Min
 
 ---
 
-## 📊 GitHub Stats
+### GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mibiji224&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibiji224&theme=dark&hide_border=true&layout=compact" height="180"/>
+  <img src="https://github-readme-stats-iota-weld-14.vercel.app/api?username=mibiji224&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="195"/>
+  &nbsp;
+  <img src="https://github-readme-stats-iota-weld-14.vercel.app/api/top-langs/?username=mibiji224&theme=dark&hide_border=true&card_width=400&langs_count=6" height="195"/>
+</p>
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mibiji224&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-### Let's Connect
+### LET'S CONNECT!
 I am always open to discussing new projects, creative ideas, or opportunities to collaborate.
 
 * **Portfolio:** [desireesoronio.vercel.app](https://desireesoronio.vercel.app)
