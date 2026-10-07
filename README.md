@@ -4,34 +4,7 @@
 
 </div>
 
-## My Technical Arsenal
-<table>
-  <tr><th align="left">Category</th><th align="left">Tools &amp; Technologies</th></tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="assets/badges/html.svg" alt="HTML"/> <img src="assets/badges/css.svg" alt="CSS"/> <img src="assets/badges/javascript.svg" alt="JavaScript"/> <img src="assets/badges/typescript.svg" alt="TypeScript"/> <img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/php.svg" alt="PHP"/> <img src="assets/badges/dart.svg" alt="Dart"/></td>
-  </tr>
-  <tr>
-    <td><b>Frameworks &amp; Libraries</b></td>
-    <td><img src="assets/badges/react.svg" alt="React"/> <img src="assets/badges/vuejs.svg" alt="Vue.js"/> <img src="assets/badges/nextjs.svg" alt="Next.js"/> <img src="assets/badges/nuxtjs.svg" alt="Nuxt.js"/> <img src="assets/badges/laravel.svg" alt="Laravel"/> <img src="assets/badges/flutter.svg" alt="Flutter"/> <img src="assets/badges/tailwindcss.svg" alt="Tailwind CSS"/> <img src="assets/badges/bootstrap.svg" alt="Bootstrap"/></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="assets/badges/mysql.svg" alt="MySQL"/> <img src="assets/badges/postgresql.svg" alt="PostgreSQL"/> <img src="assets/badges/firebase.svg" alt="Firebase"/> <img src="assets/badges/supabase.svg" alt="Supabase"/></td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td><img src="assets/badges/figma.svg" alt="Figma"/> <img src="assets/badges/photoshop.svg" alt="Photoshop"/> <img src="assets/badges/canva.svg" alt="Canva"/> <img src="assets/badges/blender.svg" alt="Blender"/></td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; DevOps</b></td>
-    <td><img src="assets/badges/git.svg" alt="Git"/> <img src="assets/badges/github.svg" alt="GitHub"/> <img src="assets/badges/bitbucket.svg" alt="Bitbucket"/> <img src="assets/badges/neovim.svg" alt="Neovim"/> <img src="assets/badges/bash.svg" alt="Bash"/></td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; Operations</b></td>
-    <td><img src="assets/badges/googlesheets.svg" alt="Google Sheets"/> <img src="assets/badges/googleworkspace.svg" alt="Google Workspace"/> <img src="assets/badges/crmmanagement.svg" alt="CRM"/> <img src="assets/badges/tensorflow.svg" alt="TensorFlow"/> <img src="assets/badges/pytorch.svg" alt="PyTorch"/></td>
-  </tr>
-</table>
+<p align="center"><img src="assets/arsenal.svg" width="100%" alt="My Technical Arsenal"/></p>
 
 ## GitHub Stats
 <p align="center">
