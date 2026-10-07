@@ -4,6 +4,6 @@
     <path d="M0 60.0 q112.5 -30.0 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V140.0 H0 Z" fill="#FFB3CF" opacity=".8"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="8s" repeatCount="indefinite"/></path>
     <path d="M0 100.0 q112.5 -20.0 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V140.0 H0 Z" fill="#FF8FB8" opacity=".6"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="6s" repeatCount="indefinite"/></path>
   </g>
-  <text x="450" y="48" text-anchor="middle" font-family="Poppins, sans-serif" font-size="18" fill="#fff" stroke="#D6336C" stroke-width="1" paint-order="stroke" letter-spacing="3">thanks for stopping by
+  <text x="450" y="48" text-anchor="middle" font-family="Poppins, sans-serif" font-size="18" fill="#B02A5B" letter-spacing="3">thanks for stopping by
     <animate attributeName="opacity" values=".6;1;.6" dur="3s" repeatCount="indefinite"/></text>
 </svg>
