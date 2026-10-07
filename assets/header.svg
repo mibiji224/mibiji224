@@ -7,7 +7,7 @@
       <stop offset="0" stop-color="#D6336C"><animate attributeName="stop-color" values="#D6336C;#2F9E6E;#D6336C" dur="6s" repeatCount="indefinite"/></stop>
       <stop offset="1" stop-color="#D6336C"/>
     </linearGradient>
-    <clipPath id="type"><rect x="190" y="105" height="75" width="0"><animate attributeName="width" values="0;35;69;104;139;173;208;243;277;312;347;381;416;451;485;520;520" keyTimes="0.0;0.027;0.053;0.08;0.107;0.133;0.16;0.187;0.213;0.24;0.267;0.293;0.32;0.347;0.373;0.4;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type"><rect x="210.0" y="105" height="75" width="0"><animate attributeName="width" values="2.0;50.2;83.2;112.8;133.2;163.3;196.3;229.4;244.0;281.5;318.2;348.3;385.0;424.9;445.3;482.0;482.0" keyTimes="0.0;0.0267;0.0533;0.08;0.1067;0.1333;0.16;0.1867;0.2133;0.24;0.2667;0.2933;0.32;0.3467;0.3733;0.4;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="frame"><rect x="6" y="6" width="888" height="288" rx="28"/></clipPath>
   </defs>
   <rect x="6" y="6" width="888" height="288" rx="28" fill="url(#bg)"/>
@@ -24,12 +24,9 @@
       hi there, i'm
       <animate attributeName="opacity" values=".6;1;.6" dur="3s" repeatCount="indefinite"/>
     </text>
-    <text x="450" y="160" font-size="54" font-weight="bold" fill="#fff" stroke="#D6336C" stroke-width="2.5" paint-order="stroke" stroke-linejoin="round" clip-path="url(#type)">
-      Desiree Soronio
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4s" repeatCount="indefinite"/>
-    </text>
+    <text x="210.0" y="160" text-anchor="start" textLength="480" lengthAdjust="spacingAndGlyphs" font-size="54" font-weight="bold" fill="#fff" stroke="#D6336C" stroke-width="2.5" paint-order="stroke" stroke-linejoin="round" clip-path="url(#type)">Desiree Soronio</text>
     <text x="450" y="195" font-size="18" fill="#fff" stroke="#D6336C" stroke-width="1" paint-order="stroke" letter-spacing="3">Developer · Designer · Operational Leader</text>
-    <rect y="115" width="3" height="52" fill="#D6336C" x="190"><animate attributeName="x" values="0;35;69;104;139;173;208;243;277;312;347;381;416;451;485;520;520" keyTimes="0.0;0.027;0.053;0.08;0.107;0.133;0.16;0.187;0.213;0.24;0.267;0.293;0.32;0.347;0.373;0.4;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect>
+    <rect y="115" width="3" height="52" fill="#D6336C" x="210.0"><animate attributeName="x" values="210.0;258.2;291.2;320.8;341.2;371.3;404.3;437.4;452.0;489.5;526.2;556.3;593.0;632.9;653.3;690.0;690.0" keyTimes="0.0;0.0267;0.0533;0.08;0.1067;0.1333;0.16;0.1867;0.2133;0.24;0.2667;0.2933;0.32;0.3467;0.3733;0.4;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect>
   </g>
   <g font-size="22">
     <text x="90" y="70" fill="#FF8FB8">✦<animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="2.4s" repeatCount="indefinite"/></text>
