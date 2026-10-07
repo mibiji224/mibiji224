@@ -16,11 +16,4 @@
   <img src="https://github-readme-stats-iota-weld-14.vercel.app/api/top-langs/?username=mibiji224&hide_border=true&card_width=500&langs_count=6&bg_color=FFD6E6&title_color=D6336C&text_color=4A4A4A&layout=compact" width="99%" alt="Most used languages"/>
 </p>
 
-## Let's Connect!
-I am always open to discussing new projects, creative ideas, or opportunities to collaborate.
-
-* **Portfolio:** [desireesoronio.vercel.app](https://desireesoronio.vercel.app)
-* **LinkedIn:** [linkedin.com/in/desireesoronio](https://www.linkedin.com/in/desireesoronio)
-* **Email:** [desireesoronio@gmail.com](mailto:desireesoronio@gmail.com)
-
 <img src="assets/footer.svg" width="100%" alt=""/>
