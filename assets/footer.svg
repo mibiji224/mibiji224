@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="presentation">
+  <defs><clipPath id="f"><rect width="900" height="140" rx="24"/></clipPath></defs>
+  <g clip-path="url(#f)">
+    <path d="M0 60.0 q112.5 -30.0 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V140.0 H0 Z" fill="#FFB3CF" opacity=".8"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="8s" repeatCount="indefinite"/></path>
+    <path d="M0 80.0 q112.5 -26.0 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V140.0 H0 Z" fill="#9ADDB6" opacity=".85"><animateTransform attributeName="transform" type="translate" from="-450 0" to="0 0" dur="10s" repeatCount="indefinite"/></path>
+    <path d="M0 100.0 q112.5 -20.0 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V140.0 H0 Z" fill="#FF8FB8" opacity=".6"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M0 118.0 q112.5 -14.0 225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 t225 0 V140.0 H0 Z" fill="#5BB98C" opacity=".6"><animateTransform attributeName="transform" type="translate" from="-450 0" to="0 0" dur="7s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="450" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#B02A5B" letter-spacing="3">thanks for stopping by ♡
+    <animate attributeName="opacity" values=".6;1;.6" dur="3s" repeatCount="indefinite"/></text>
+</svg>
