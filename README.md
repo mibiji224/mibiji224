@@ -4,15 +4,7 @@
 
 </div>
 
-Welcome to my GitHub! I'm a Computer Science student from the University of Mindanao, bridging the gap between clean code, beautiful design, and flawless execution.
-
-## About Me
-* **What I do:** I currently navigate the fast-paced tech world as the Executive Assistant to the Chief Technical Officer and Operations Manager at Inventiv. I handle everything from operational workflows to task tracking and cross-team coordination.
-* **My background:** I have a strong foundation in data tracking, process monitoring, and administrative coordination. Whether I am logging CRM data or ensuring technical projects stay on track, I thrive in high-pressure environments.
-* **Leadership:** I am passionate about guiding teams and driving initiatives forward, having proudly served as the President of the Computing College Department Student Government in 2024-2025.
-
-## My Technical Arsenal
-| Category | Tools & Technologies |
+## | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | <img src="assets/badges/html.svg" alt="HTML"/> <img src="assets/badges/css.svg" alt="CSS"/> <img src="assets/badges/javascript.svg" alt="JavaScript"/> <img src="assets/badges/typescript.svg" alt="TypeScript"/> <img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/php.svg" alt="PHP"/> <img src="assets/badges/dart.svg" alt="Dart"/> |
 | **Frameworks & Libraries** | <img src="assets/badges/react.svg" alt="React"/> <img src="assets/badges/vuejs.svg" alt="Vue.js"/> <img src="assets/badges/nextjs.svg" alt="Next.js"/> <img src="assets/badges/nuxtjs.svg" alt="Nuxt.js"/> <img src="assets/badges/laravel.svg" alt="Laravel"/> <img src="assets/badges/flutter.svg" alt="Flutter"/> <img src="assets/badges/tailwindcss.svg" alt="Tailwind CSS"/> <img src="assets/badges/bootstrap.svg" alt="Bootstrap"/> |
