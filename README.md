@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="center"><img src="assets/arsenal.svg?v=2" width="100%" alt="My Technical Arsenal"/></p>
+<p align="center"><img src="assets/arsenal.svg?v=3" width="100%" alt="My Technical Arsenal"/></p>
 
 ## GitHub Stats
 <p align="center">
